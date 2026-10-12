@@ -1,5 +1,10 @@
 import { BookChapter, FaqItem, Testimonial } from '../types';
 
+import heroOcean from '../assets/images/hero_coastal_ocean_1791777709348.jpg';
+import bookShowcase from '../assets/images/book_coastal_showcase_1791777721936.jpg';
+import authorPortrait from '../assets/images/author_annemie_portrait_1791777734851.jpg';
+import mentoringSpace from '../assets/images/mentoring_coastal_space_1791777745211.jpg';
+
 export const SITE_METADATA = {
   title: 'Making Powerful Choices',
   subtitle: 'A Guide on How to Think Differently, Stretch Your Mind, and Live an Epic and Meaningful Life!',
@@ -12,10 +17,10 @@ export const SITE_METADATA = {
 };
 
 export const IMAGES = {
-  hero: '/src/assets/images/hero_coastal_ocean_1791777709348.jpg',
-  book: '/src/assets/images/book_coastal_showcase_1791777721936.jpg',
-  author: '/src/assets/images/author_annemie_portrait_1791777734851.jpg',
-  mentoring: '/src/assets/images/mentoring_coastal_space_1791777745211.jpg',
+  hero: heroOcean,
+  book: bookShowcase,
+  author: authorPortrait,
+  mentoring: mentoringSpace,
 };
 
 export const CORE_PHILOSOPHY = [
