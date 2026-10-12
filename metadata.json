@@ -1,0 +1,6 @@
+{
+  "name": "Making Powerful Choices",
+  "description": "Ultra-modern Australian coastal website for Making Powerful Choices by AnneMie Decatte — The Book, 1-on-1 Mentoring, Mastermind, and Contact.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
