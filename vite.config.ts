@@ -5,7 +5,7 @@ import { defineConfig } from 'vite';
 
 export default defineConfig(({ command, mode }) => {
   return {
-    base: '/zinsoubrock-hue/',
+    base: '/Mind---AnneMi/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
